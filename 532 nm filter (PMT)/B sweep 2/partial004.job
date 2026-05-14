@@ -1,0 +1,320 @@
+seth_xesr_precise 0.1 1 0 -0.004892367906066841
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\255.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.004892367906066397
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\256.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.014677103718199636
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\257.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.02446183953033243
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\258.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.03424657534246567
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\259.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.04403131115459846
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\260.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.0538160469667317
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\261.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.06360078277886494
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\262.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.07338551859099773
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\263.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.08317025440313097
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\264.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.09295499021526421
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\265.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.102739726027397
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\266.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.11252446183953024
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\267.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.12230919765166348
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\268.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.13209393346379628
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\269.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.14187866927592951
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\270.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.1516634050880623
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\271.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.16144814090019555
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\272.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.17123287671232879
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\273.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.18101761252446158
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\274.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.19080234833659482
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\275.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.2005870841487276
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\276.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.21037181996086085
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\277.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.2201565557729941
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\278.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.22994129158512688
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\279.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.23972602739726012
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\280.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.24951076320939336
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\281.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.25929549902152615
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\282.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.2690802348336594
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\283.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.27886497064579263
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\284.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.2886497064579254
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\285.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.29843444227005866
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\286.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.30821917808219146
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\287.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.3180039138943247
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\288.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.32778864970645794
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\289.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.33757338551859073
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\290.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.34735812133072397
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\291.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.35714285714285676
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\292.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.36692759295499
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\293.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.37671232876712324
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\294.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.38649706457925603
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\295.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.39628180039138927
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\296.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4060665362035225
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\297.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4158512720156553
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\298.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.42563600782778854
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\299.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4354207436399218
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\300.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4452054794520546
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\301.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4549902152641878
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\302.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4647749510763206
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\303.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.47455968688845385
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\304.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4843444227005871
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\305.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.4941291585127199
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\306.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5039138943248531
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\307.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5136986301369859
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\308.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5234833659491192
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\309.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5332681017612524
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\310.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5430528375733852
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\311.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5528375733855184
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\312.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5626223091976517
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\313.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5724070450097845
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\314.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5821917808219177
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\315.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.5919765166340509
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\316.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.6017612524461837
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\317.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0.611545988258317
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\318.dat
+plotxy
+

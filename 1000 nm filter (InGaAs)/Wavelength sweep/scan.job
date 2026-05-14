@@ -1,0 +1,100 @@
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\000.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\001.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\002.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\003.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\004.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\005.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\006.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\007.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\008.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\009.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\010.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\011.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\012.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\013.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\014.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\015.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\016.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\017.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\018.dat
+mode 1 3 1 1; plotover; plotxy
+
+setcw 20 2.874 1 1
+ihr_sweep 950 2100 0.5 1 2
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\1000nm_ODMR\full_span_avg_2mm\019.dat
+mode 1 3 1 1; plotover; plotxy
+

@@ -1,0 +1,6 @@
+seth_xesr_precise 0.1 1 0 2.5
+cavityli 20 2 4 2000 1 0 0
+save c:\Users\ESRLabN1\Desktop\Bence\IR_spectroscopy\532nm_ODMR\magnet_map_2_680nm\511.dat
+plotxy
+
+seth_xesr_precise 0.1 1 0 0
